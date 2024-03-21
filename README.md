@@ -6,7 +6,7 @@
 - Install config:
 
 ```shell
-git clone git@github.com:juanmc2005/tmux-config.git && cp tmux-config/.tmux.conf ~/
+git clone git@github.com:juanmc2005/tmux-config.git && ln -s tmux-config/.tmux.conf ~/.tmux.conf
 ```
 
 - Install plugin manager:
